@@ -98,12 +98,12 @@ Teknologi yang digunakan
 
 Screenshoot
 1. Halaman Login
-<img width="1920" height="1080" alt="Screenshot (571)" src="https://github.com/user-attachments/assets/36e69ad5-6549-4b19-9989-480bde3a153e" />
+<img width="1920" height="1080" alt="Screenshot (571)" src="https://github.com/user-attachments/assets/ae587fe5-d4e9-42af-8d73-5080f9190031" />
 2. Halaman Dashboard
-<img width="1920" height="1080" alt="Screenshot (574)" src="https://github.com/user-attachments/assets/9c230964-87b0-4cf7-9b88-33ea9a7b2a01" />
+<img width="1920" height="1080" alt="Screenshot (574)" src="https://github.com/user-attachments/assets/80d45a6f-faec-4de2-a42a-a1436f036731" />
 3. Halaman Profilku
-<img width="1920" height="1080" alt="Screenshot (575)" src="https://github.com/user-attachments/assets/31fda575-5f8c-4808-bd70-06f5491df7d7" />
+<img width="1920" height="1080" alt="Screenshot (575)" src="https://github.com/user-attachments/assets/1c9cb7dc-e66d-4e7f-a41a-f16e19c4643b" />
 4. Halaman Produk GrapeIn
-<img width="1920" height="1080" alt="Screenshot (576)" src="https://github.com/user-attachments/assets/ea511b52-f867-48cf-a173-f4749719bf5e" />
+<img width="1920" height="1080" alt="Screenshot (576)" src="https://github.com/user-attachments/assets/bfe430f5-2694-40ce-8d14-1ae384042dea" />
 5. Halaman Profil CEO
-<img width="1920" height="1080" alt="Screenshot (577)" src="https://github.com/user-attachments/assets/aeb5996d-ba0a-4b93-bb9f-4423370f1ab1" />
+<img width="1920" height="1080" alt="Screenshot (577)" src="https://github.com/user-attachments/assets/93555a5a-5a09-4165-9d68-10c2174861fc" />
