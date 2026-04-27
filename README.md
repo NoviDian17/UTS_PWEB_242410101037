@@ -56,3 +56,54 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# UTS_PWEB_242410101037_
+UTS PWEB 
+Nama : Novi Dian Safitri
+NIM : 242410101037
+Kelas : B
+Prodi : Sistem Informasi 
+
+Penjelasan
+Website yang saya buat merupakan aplikasi berbasis web sederhana untuk manajemen pengelolaan stok produk anggur “GrapeIn”. 
+Website ini dibangun menggunakan framework Laravel dengan memanfaatkan fitur routing, controller, dan Blade template.
+Tujuan dari pembuatan website ini adalah untuk:
+1. Menampilkan alur dasar aplikasi web
+2. Mengelola dan menampilkan data produk secara sederhana
+3. Menerapkan konsep MVC 
+
+Fitur Utama
+1. Login Sederhana
+User hanya memasukkan username
+Username dikirim menggunakan request parameter
+Tidak menggunakan database atau autentikasi kompleks
+2. Dashboard
+Menampilkan ucapan “Welcome” sesuai username
+Menjadi pusat navigasi ke halaman lain
+3. Halaman Profil
+Menampilkan informasi user berdasarkan username
+Data ditampilkan secara dinamis
+4. Halaman Profil CEO
+Menampilkan informasi CEO (statis)
+5. Halaman Pengelolaan Produk
+Menampilkan daftar produk anggur
+Data disimpan dalam bentuk array di controller
+Ditampilkan menggunakan perulangan @foreach di Blade
+
+Teknologi yang digunakan 
+1. PHP
+2. Laravel
+3. Blade Template
+4. HTML & CSS
+
+Screenshoot
+1. Halaman Login
+<img width="1920" height="1080" alt="Screenshot (571)" src="https://github.com/user-attachments/assets/36e69ad5-6549-4b19-9989-480bde3a153e" />
+2. Halaman Dashboard
+<img width="1920" height="1080" alt="Screenshot (574)" src="https://github.com/user-attachments/assets/9c230964-87b0-4cf7-9b88-33ea9a7b2a01" />
+3. Halaman Profilku
+<img width="1920" height="1080" alt="Screenshot (575)" src="https://github.com/user-attachments/assets/31fda575-5f8c-4808-bd70-06f5491df7d7" />
+4. Halaman Produk GrapeIn
+<img width="1920" height="1080" alt="Screenshot (576)" src="https://github.com/user-attachments/assets/ea511b52-f867-48cf-a173-f4749719bf5e" />
+5. Halaman Profil CEO
+<img width="1920" height="1080" alt="Screenshot (577)" src="https://github.com/user-attachments/assets/aeb5996d-ba0a-4b93-bb9f-4423370f1ab1" />
