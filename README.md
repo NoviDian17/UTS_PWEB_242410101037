@@ -84,7 +84,7 @@ Menjadi pusat navigasi ke halaman lain
 Menampilkan informasi user berdasarkan username
 Data ditampilkan secara dinamis
 4. Halaman Profil CEO
-Menampilkan informasi CEO (statis)
+Menampilkan informasi CEO
 5. Halaman Pengelolaan Produk
 Menampilkan daftar produk anggur
 Data disimpan dalam bentuk array di controller
